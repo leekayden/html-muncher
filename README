@@ -45,11 +45,13 @@ it will be rewritten as
  INSTALLATION
 --------------
 
-easy_install http://htmlmuncher.com/htmlmuncher.egg
+easy_install https://htmlmuncher.vercel.app/htmlmuncher.egg
 
 OR:
 
-download the source from http://github.com/ccampbell/html-muncher
+download the source from https://github.com/ccampbell/html-muncher
+if unavailable, try https://github.com/leekayden/html-mucnher
+OR, try to use a web archive to recover.
 cd html-muncher
 python setup.py install
 
@@ -57,7 +59,7 @@ python setup.py install
 --------------
  USAGE
 --------------
-http://htmlmuncher.com/#usage
+http://htmlmuncher.vercel.app/#usage
 
 OR:
 
